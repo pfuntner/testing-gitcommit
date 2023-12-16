@@ -1,3 +1,3 @@
 # testing-gitstatus
 
-Testing new gitstatus command on github 2
+Testing new gitstatus command on github 3
